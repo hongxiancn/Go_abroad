@@ -1,5 +1,0 @@
-## NAME: AI规则补充
-## AUTHOR: Ethan
-## 用于补充规则集不包含的网站，策略指向「AI」
-## ------------------
-HOST-SUFFIX,anthropic.com,AI
